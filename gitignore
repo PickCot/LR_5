@@ -1,2 +1,3 @@
 $ cat .gitignore
-New_txt.txt
+*.txt
+*txt
