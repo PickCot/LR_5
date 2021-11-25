@@ -1,1 +1,2 @@
+$ cat .gitignore
 LR_5/*.txt
